@@ -1,0 +1,11 @@
+h2 {
+    color: var(--text-color);
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    
+    padding: 10px;
+  }
+  

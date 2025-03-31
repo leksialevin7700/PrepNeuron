@@ -1,0 +1,54 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+What is the time complexity of inserting an element at the end of a dynamic array?,O(1),O(n),O(log n),O(n^2),A,Amortized time complexity for inserting at the end of a dynamic array is O(1).
+Which data structure uses FIFO (First In First Out) principle?,Stack,Queue,Tree,Graph,B,Queue follows the FIFO principle for insertion and deletion.
+What is the worst-case time complexity of Quick Sort?,O(n log n),O(n^2),O(n),O(log n),B,Worst-case time complexity of Quick Sort is O(n^2) when the pivot is poorly chosen.
+Which of the following is a non-linear data structure?,Array,Linked List,Tree,Queue,C,Tree is a non-linear data structure as elements are arranged hierarchically.
+What is the time complexity of searching in a balanced binary search tree?,O(1),O(n),O(log n),O(n log n),C,Searching in a balanced BST takes O(log n) time due to its height-balanced nature.
+Which of the following is used to implement recursion?,Queue,Stack,Linked List,Tree,B,Stack is used to manage function calls and recursion.
+What is the time complexity of inserting an element in a max-heap?,O(1),O(log n),O(n),O(n log n),B,Inserting in a max-heap takes O(log n) time due to heapify operations.
+Which of the following is a divide and conquer algorithm?,Bubble Sort,Merge Sort,Insertion Sort,Selection Sort,B,Merge Sort divides the array into smaller parts and merges them in sorted order.
+What is the space complexity of Merge Sort?,O(1),O(n),O(log n),O(n^2),B,Merge Sort requires O(n) additional space for merging subarrays.
+Which data structure is used for implementing a priority queue?,Stack,Queue,Heap,Linked List,C,Heap is used to implement a priority queue efficiently.
+What is the time complexity of deleting an element from a binary search tree?,O(1),O(log n),O(n),O(n log n),B,Deleting an element from a balanced BST takes O(log n) time.
+Which of the following is a linear data structure?,Tree,Graph,Array,Heap,C,Array is a linear data structure as elements are stored sequentially.
+What is the time complexity of Breadth-First Search (BFS) in a graph?,O(V + E),O(V),O(E),O(V log E),A,"BFS visits all vertices (V) and edges (E) once, so its time complexity is O(V + E)."
+Which of the following is used to detect cycles in a graph?,BFS,DFS,Dijkstra's Algorithm,Prim's Algorithm,B,DFS can detect cycles by tracking visited nodes and recursion stack.
+What is the time complexity of Dijkstra's algorithm using a binary heap?,O(V^2),O(E log V),O(V log V),O(E + V log V),D,Dijkstra's algorithm with a binary heap has a time complexity of O(E + V log V).
+Which of the following is a stable sorting algorithm?,Quick Sort,Heap Sort,Merge Sort,Selection Sort,C,Merge Sort is stable as it preserves the relative order of equal elements.
+What is the time complexity of finding the minimum element in a min-heap?,O(1),O(log n),O(n),O(n log n),A,"The minimum element in a min-heap is always at the root, so it takes O(1) time."
+Which of the following is used to implement a hash table?,Array,Linked List,Tree,Graph,A,Hash tables use arrays to store key-value pairs with hash functions.
+What is the time complexity of inserting an element in a linked list?,O(1),O(log n),O(n),O(n log n),A,Inserting at the head of a linked list takes O(1) time.
+Which of the following is a dynamic data structure?,Array,Linked List,Stack,Queue,B,Linked List is dynamic as it can grow or shrink during runtime.
+What is the time complexity of searching in a hash table?,O(1),O(log n),O(n),O(n log n),A,Searching in a hash table takes O(1) time on average.
+Which of the following is used to implement a stack?,Array,Queue,Tree,Graph,A,Stack can be implemented using an array or linked list.
+What is the time complexity of Heap Sort?,O(n log n),O(n^2),O(n),O(log n),A,Heap Sort has a time complexity of O(n log n) in all cases.
+Which of the following is used to implement a graph?,Adjacency Matrix,Linked List,Stack,Queue,A,Graphs can be implemented using adjacency matrices or adjacency lists.
+What is the time complexity of Depth-First Search (DFS) in a graph?,O(V + E),O(V),O(E),O(V log E),A,"DFS visits all vertices (V) and edges (E) once, so its time complexity is O(V + E)."
+Which of the following is a greedy algorithm?,Dijkstra's Algorithm,Merge Sort,Quick Sort,Bubble Sort,A,Dijkstra's Algorithm is a greedy algorithm for finding the shortest path.
+What is the time complexity of finding the maximum element in an unsorted array?,O(1),O(log n),O(n),O(n log n),C,Finding the maximum element in an unsorted array requires O(n) time.
+Which of the following is used to implement a circular queue?,Array,Linked List,Stack,Tree,A,Circular queues can be implemented using arrays or linked lists.
+What is the time complexity of inserting an element in a binary search tree?,O(1),O(log n),O(n),O(n log n),B,Inserting in a balanced BST takes O(log n) time.
+Which of the following is used to implement a doubly linked list?,Array,Linked List,Stack,Queue,B,Doubly linked lists use nodes with pointers to both the next and previous nodes.
+What is the time complexity of deleting an element from a linked list?,O(1),O(log n),O(n),O(n log n),C,Deleting an element from a linked list takes O(n) time in the worst case.
+Which of the following is used to implement a hash map?,Array,Linked List,Tree,Graph,A,Hash maps use arrays to store key-value pairs with hash functions.
+What is the time complexity of Bubble Sort in the worst case?,O(n),O(n log n),O(n^2),O(log n),C,Bubble Sort has a worst-case time complexity of O(n^2).
+Which of the following is used to implement a binary tree?,Array,Linked List,Stack,Queue,A,Binary trees can be implemented using arrays or linked structures.
+What is the time complexity of finding the height of a binary tree?,O(1),O(log n),O(n),O(n log n),C,Finding the height of a binary tree requires O(n) time as all nodes are visited.
+Which of the following is used to implement a priority queue?,Heap,Stack,Queue,Linked List,A,Heaps are used to implement priority queues efficiently.
+What is the time complexity of inserting an element in a stack?,O(1),O(log n),O(n),O(n log n),A,Inserting an element in a stack takes O(1) time.
+Which of the following is used to implement a graph traversal?,BFS,Heap,Stack,Queue,A,BFS and DFS are used for graph traversal.
+What is the time complexity of deleting an element from a queue?,O(1),O(log n),O(n),O(n log n),A,Deleting an element from a queue takes O(1) time.
+Which of the following is used to implement a binary search?,Array,Linked List,Stack,Queue,A,Binary search is performed on sorted arrays.
+What is the time complexity of finding the middle element in a linked list?,O(1),O(log n),O(n),O(n log n),C,Finding the middle element in a linked list requires O(n) time.
+Which of the following is used to implement a circular linked list?,Array,Linked List,Stack,Queue,B,Circular linked lists use nodes with pointers to form a loop.
+What is the time complexity of inserting an element in a hash table?,O(1),O(log n),O(n),O(n log n),A,Inserting an element in a hash table takes O(1) time on average.
+Which of the following is used to implement a binary heap?,Array,Linked List,Stack,Queue,A,Binary heaps are implemented using arrays.
+What is the time complexity of finding the minimum element in a max-heap?,O(1),O(log n),O(n),O(n log n),C,Finding the minimum element in a max-heap requires O(n) time.
+Which of the following is used to implement a trie?,Array,Linked List,Tree,Graph,C,Trie is a tree-like data structure used for storing strings.
+What is the time complexity of deleting an element from a binary heap?,O(1),O(log n),O(n),O(n log n),B,Deleting an element from a binary heap takes O(log n) time.
+Which of the following is used to implement a suffix tree?,Array,Linked List,Tree,Graph,C,Suffix trees are used for efficient string matching and storage.
+What is the time complexity of finding the maximum element in a min-heap?,O(1),O(log n),O(n),O(n log n),C,Finding the maximum element in a min-heap requires O(n) time.
+Which of the following is used to implement a disjoint set?,Array,Linked List,Stack,Queue,A,Disjoint sets are implemented using arrays and union-find operations.
+What is the time complexity of inserting an element in a trie?,O(1),O(log n),O(n),O(n log n),C,"Inserting an element in a trie takes O(n) time, where n is the length of the string."
+Which of the following is used to implement a segment tree?,Array,Linked List,Stack,Queue,A,Segment trees are implemented using arrays for range queries.
+What is the time complexity of finding the minimum element in a segment tree?,O(1),O(log n),O(n),O(n log n),B,Finding the minimum element in a segment tree takes O(log n) time.

@@ -1,0 +1,54 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+What is the primary key in a relational database?,A unique identifier for each record,A foreign key in another table,A composite key,A candidate key,A,The primary key uniquely identifies each record in a table.
+Which of the following is a type of relational algebra operation?,Selection,Join,Projection,All of the above,D,"Relational algebra includes operations like selection, join, and projection."
+What is the purpose of normalization in a database?,To reduce redundancy,To increase redundancy,To complicate the schema,To decrease performance,A,Normalization reduces redundancy and improves data integrity.
+Which of the following is a type of SQL join?,Inner Join,Outer Join,Cross Join,All of the above,D,"SQL supports inner, outer, and cross joins."
+What is the purpose of an ER diagram?,To represent the logical structure of a database,To represent the physical structure of a database,To represent the network structure of a database,To represent the hierarchical structure of a database,A,ER diagrams represent the logical structure of a database using entities and relationships.
+Which of the following is a type of integrity constraint?,Primary Key,Foreign Key,Unique Constraint,All of the above,D,"Integrity constraints include primary keys, foreign keys, and unique constraints."
+What is the purpose of indexing in a database?,To improve query performance,To increase storage space,To complicate the schema,To decrease query performance,A,Indexing improves query performance by allowing faster data retrieval.
+Which of the following is a type of file organization?,Heap File,Sequential File,Hash File,All of the above,D,"File organization types include heap, sequential, and hash files."
+What is the purpose of a foreign key in a relational database?,To establish a relationship between tables,To uniquely identify a record,To enforce data integrity,To create a composite key,A,A foreign key establishes a relationship between two tables.
+Which of the following is a type of SQL command?,SELECT,INSERT,UPDATE,All of the above,D,"SQL commands include SELECT, INSERT, and UPDATE."
+What is the purpose of a data warehouse?,To store historical data for analysis,To store transactional data,To store temporary data,To store metadata,A,A data warehouse stores historical data for analysis and reporting.
+Which of the following is a type of normalization?,1NF,2NF,3NF,All of the above,D,"Normalization includes 1NF, 2NF, and 3NF."
+What is the purpose of a candidate key in a relational database?,To uniquely identify a record,To establish a relationship between tables,To enforce data integrity,To create a composite key,A,A candidate key uniquely identifies a record in a table.
+Which of the following is a type of SQL constraint?,NOT NULL,CHECK,DEFAULT,All of the above,D,"SQL constraints include NOT NULL, CHECK, and DEFAULT."
+What is the purpose of a view in a database?,To provide a virtual table based on a query,To store physical data,To enforce data integrity,To create a composite key,A,A view provides a virtual table based on a SQL query.
+Which of the following is a type of indexing?,B-tree,Hash,Bitmap,All of the above,D,"Indexing types include B-tree, hash, and bitmap."
+What is the purpose of a stored procedure in a database?,To encapsulate SQL logic for reuse,To store physical data,To enforce data integrity,To create a composite key,A,A stored procedure encapsulates SQL logic for reuse.
+Which of the following is a type of SQL transaction command?,COMMIT,ROLLBACK,SAVEPOINT,All of the above,D,"SQL transaction commands include COMMIT, ROLLBACK, and SAVEPOINT."
+What is the purpose of a trigger in a database?,To automatically execute SQL logic when an event occurs,To store physical data,To enforce data integrity,To create a composite key,A,A trigger automatically executes SQL logic when an event occurs.
+Which of the following is a type of data warehousing schema?,Star Schema,Snowflake Schema,Galaxy Schema,All of the above,D,"Data warehousing schemas include star, snowflake, and galaxy schemas."
+What is the purpose of a fact table in a data warehouse?,To store quantitative data for analysis,To store metadata,To store temporary data,To store transactional data,A,A fact table stores quantitative data for analysis.
+Which of the following is a type of SQL aggregate function?,COUNT,SUM,AVG,All of the above,D,"SQL aggregate functions include COUNT, SUM, and AVG."
+What is the purpose of a dimension table in a data warehouse?,To store descriptive attributes for analysis,To store quantitative data,To store temporary data,To store transactional data,A,A dimension table stores descriptive attributes for analysis.
+Which of the following is a type of SQL data type?,INT,VARCHAR,DATE,All of the above,D,"SQL data types include INT, VARCHAR, and DATE."
+What is the purpose of a composite key in a relational database?,To uniquely identify a record using multiple columns,To establish a relationship between tables,To enforce data integrity,To create a foreign key,A,A composite key uniquely identifies a record using multiple columns.
+Which of the following is a type of SQL join condition?,Equi Join,Non-Equi Join,Self Join,All of the above,D,"SQL join conditions include equi, non-equi, and self joins."
+What is the purpose of a data mart in a data warehouse?,To store a subset of data for specific analysis,To store all data for general analysis,To store temporary data,To store transactional data,A,A data mart stores a subset of data for specific analysis.
+Which of the following is a type of SQL subquery?,Scalar Subquery,Correlated Subquery,Nested Subquery,All of the above,D,"SQL subqueries include scalar, correlated, and nested subqueries."
+What is the purpose of a surrogate key in a data warehouse?,To uniquely identify a record without business meaning,To establish a relationship between tables,To enforce data integrity,To create a composite key,A,A surrogate key uniquely identifies a record without business meaning.
+Which of the following is a type of SQL window function?,ROW_NUMBER,RANK,DENSE_RANK,All of the above,D,"SQL window functions include ROW_NUMBER, RANK, and DENSE_RANK."
+What is the purpose of a materialized view in a database?,To store the result of a query for faster access,To store physical data,To enforce data integrity,To create a composite key,A,A materialized view stores the result of a query for faster access.
+Which of the following is a type of SQL set operation?,UNION,INTERSECT,EXCEPT,All of the above,D,"SQL set operations include UNION, INTERSECT, and EXCEPT."
+What is the purpose of a data dictionary in a database?,To store metadata about the database,To store physical data,To enforce data integrity,To create a composite key,A,A data dictionary stores metadata about the database.
+Which of the following is a type of SQL string function?,CONCAT,SUBSTRING,LENGTH,All of the above,D,"SQL string functions include CONCAT, SUBSTRING, and LENGTH."
+What is the purpose of a clustered index in a database?,To physically order the data in a table,To logically order the data in a table,To enforce data integrity,To create a composite key,A,A clustered index physically orders the data in a table.
+Which of the following is a type of SQL date function?,CURRENT_DATE,DATEADD,DATEDIFF,All of the above,D,"SQL date functions include CURRENT_DATE, DATEADD, and DATEDIFF."
+What is the purpose of a non-clustered index in a database?,To logically order the data in a table,To physically order the data in a table,To enforce data integrity,To create a composite key,A,A non-clustered index logically orders the data in a table.
+Which of the following is a type of SQL mathematical function?,ABS,ROUND,SQRT,All of the above,D,"SQL mathematical functions include ABS, ROUND, and SQRT."
+What is the purpose of a bitmap index in a database?,To optimize queries on low-cardinality columns,To optimize queries on high-cardinality columns,To enforce data integrity,To create a composite key,A,A bitmap index optimizes queries on low-cardinality columns.
+Which of the following is a type of SQL conversion function?,CAST,CONVERT,PARSE,All of the above,D,"SQL conversion functions include CAST, CONVERT, and PARSE."
+What is the purpose of a full-text index in a database?,To optimize text-based searches,To optimize numerical searches,To enforce data integrity,To create a composite key,A,A full-text index optimizes text-based searches.
+Which of the following is a type of SQL system function?,CURRENT_USER,SYSTEM_USER,SESSION_USER,All of the above,D,"SQL system functions include CURRENT_USER, SYSTEM_USER, and SESSION_USER."
+What is the purpose of a hash index in a database?,To optimize equality-based searches,To optimize range-based searches,To enforce data integrity,To create a composite key,A,A hash index optimizes equality-based searches.
+Which of the following is a type of SQL logical function?,COALESCE,NULLIF,IIF,All of the above,D,"SQL logical functions include COALESCE, NULLIF, and IIF."
+What is the purpose of a spatial index in a database?,To optimize spatial data queries,To optimize text-based queries,To enforce data integrity,To create a composite key,A,A spatial index optimizes spatial data queries.
+Which of the following is a type of SQL ranking function?,ROW_NUMBER,RANK,DENSE_RANK,All of the above,D,"SQL ranking functions include ROW_NUMBER, RANK, and DENSE_RANK."
+What is the purpose of a partitioned table in a database?,"To divide large tables into smaller, manageable pieces",To combine small tables into a larger table,To enforce data integrity,To create a composite key,A,"A partitioned table divides large tables into smaller, manageable pieces."
+Which of the following is a type of SQL analytic function?,LEAD,LAG,FIRST_VALUE,All of the above,D,"SQL analytic functions include LEAD, LAG, and FIRST_VALUE."
+What is the purpose of a sequence in a database?,To generate unique numeric values,To enforce data integrity,To create a composite key,To optimize queries,A,A sequence generates unique numeric values for primary keys.
+Which of the following is a type of SQL conditional function?,CASE,IF,COALESCE,All of the above,D,"SQL conditional functions include CASE, IF, and COALESCE."
+What is the purpose of a synonym in a database?,To provide an alternative name for a database object,To enforce data integrity,To create a composite key,To optimize queries,A,A synonym provides an alternative name for a database object.
+Which of the following is a type of SQL aggregate analytic function?,SUM,AVG,COUNT,All of the above,D,"SQL aggregate analytic functions include SUM, AVG, and COUNT."
+What is the purpose of a role in a database?,To group privileges for easier management,To enforce data integrity,To create a composite key,To optimize queries,A,A role groups privileges for easier management.
